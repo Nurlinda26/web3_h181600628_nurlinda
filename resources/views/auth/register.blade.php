@@ -79,7 +79,7 @@
           <div class="form-group col-md-4">
              <div class="captcha">
                <span>{!! captcha_img() !!}</span>
-               <button type="button" class="btn btn-success"><i class="fa fa-refresh" id="refresh"></i></button>
+               <button type="button" class="btn btn-success"><i class="fa fa-refresh" id="refresh">refresh</i></button>
                </div>
             </div>
         </div>
